@@ -10,10 +10,8 @@ Ju Hwan Lee*, Kyungsu Kim**, Seong Je Oh, Chae Yeon Lim, Seung Hong Choi, and My
 1. Fusion.yaml (change prefix dir)
 2. conda env create -f Fusion.yaml
 3. conda activate Fusion
-4. Fusion-UADL pretrained weights (put it in 3D-block-UAD-CT-main)
-https://drive.google.com/file/d/1l1aMEF3s6SUWPTS9NwyS9a_zGX8ZTb0Y/view?usp=share_link
 
-# Train
+# Train 
 ### Train - train folder
 1. python save_patch_3way_96.py (make 96size patch)
 2. python train_projection2_96size.py
