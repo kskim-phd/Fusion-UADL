@@ -5,6 +5,7 @@ Improved Unsupervised 3D Lung Lesion Detection and Localization by Fusing Global
 <br/>
 <br/>
 Ju Hwan Lee*, Kyungsu Kim**, Seong Je Oh, Chae Yeon Lim, Seung Hong Choi, and Myung Jin Chung 
+<br/>
 (*Ju Hwan Lee contributed equally to this work as the co-first author, ∗∗ Kyungsu Kim (kskim.doc@gmail.com) contributed equally to this work as the co-first author and as the co-corresponding author, and Myung Jin Chung (mjchung@skku.edu) contributed equally to this work as the co-corresponding author.)
 
 # Preparation
