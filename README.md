@@ -1,4 +1,10 @@
-# Fusion-UADL
+# Improved Unsupervised 3D Lung Lesion Detection and Localization by Fusing Global and Local Features: Validation in 3D Low-Dose Computed Tomography
+This repository contains the reference Pytorch source code for the following paper:
+<br/>
+Improved Unsupervised 3D Lung Lesion Detection and Localization by Fusing Global and Local Features: Validation in 3D Low-Dose Computed Tomography
+<br/>
+<br/>
+Ju Hwan Lee*, Kyungsu Kim**, Seong Je Oh, Chae Yeon Lim, Seung Hong Choi, and Myung Jin Chung (*Ju Hwan Lee contributed equally to this work as the co-first author, ∗∗ Kyungsu Kim (kskim.doc@gmail.com) contributed equally to this work as the co-first author and as the co-corresponding author, and Myung Jin Chung (mjchung@skku.edu) contributed equally to this work as the co-corresponding author.)
 
 # Preparation
 1. Fusion.yaml (change prefix dir)
@@ -30,3 +36,4 @@ https://drive.google.com/file/d/18Fjy9i_khiMi382Oo45cUfulVYX42dDT/view?usp=share
 https://drive.google.com/file/d/1l1aMEF3s6SUWPTS9NwyS9a_zGX8ZTb0Y/view?usp=sharing
 
 bash visualization_public_LC.sh (Public_LC/CAM results are generated in CAM_results folder)
+
